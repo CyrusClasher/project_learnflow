@@ -22,7 +22,7 @@ A full-stack web application utilizing the MERN (MongoDB, Express.js, React.js, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/learning-platform.git
+   git clone https://github.com/CyrusClasher/project_learnflow.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -46,9 +46,6 @@ A full-stack web application utilizing the MERN (MongoDB, Express.js, React.js, 
 
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss the changes.
 
-## License
-
-This project is licensed under the MIT License. 
 
 ---
 
